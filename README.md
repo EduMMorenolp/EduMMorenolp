@@ -45,13 +45,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/EduM/count.svg?"  />
-</div>
-
-###
 
 <p align="center">Soy un programador junior recién iniciado en el campo de la tecnología. Desde mi infancia, siempre he sentido una gran fascinación por la tecnología y la informática, y por ello decidí estudiar programación. Me gradué recientemente y ahora estoy ansioso por poner mis habilidades en práctica y continuar creciendo como profesional en el campo de la programación.<br><br>Una de mis principales fortalezas es mi capacidad para aprender y mejorar constantemente. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de desarrollar mis habilidades. Actualmente estoy trabajando en proyectos personales para expandir mi conocimiento en diferentes áreas de la programación.<br><br>Además, soy un colaborador comprometido y un solucionador de problemas apasionado. Me encanta trabajar en equipo y colaborar con otros profesionales para crear soluciones innovadoras y de alta calidad. Estoy convencido de que la programación es una disciplina en constante evolución, y por ello estoy siempre en busca de nuevas oportunidades para aprender y crecer profesionalmente.<br><br>Si buscas un programador junior talentoso y motivado, por favor no dudes en contactarme a través de LinkedIn. Me encantaría unirme a un equipo de trabajo que comparta mi visión y mis valores, y que esté comprometido con el desarrollo de soluciones innovadoras y de alta calidad. ¡Será un placer trabajar contigo y ayudar a llevar tus proyectos al siguiente nivel!</p>
 

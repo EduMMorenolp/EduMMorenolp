@@ -18,7 +18,9 @@
 
 ###
 
-<img align="right" height="120" src="  />
+<div align="right">
+  <img height="120" src="https://i.gifer.com/AjA6.gif"  />
+</div>
 
 ###
 

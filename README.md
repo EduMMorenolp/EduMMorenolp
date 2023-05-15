@@ -10,7 +10,9 @@
 
 <img align="right" height="120" src="https://i.gifer.com/AjA6.gif"  />
 
-###
+### HERRAMIENTAS :
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -18,11 +20,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="TypeScript logo" />
+
 </div>
 
-###
+<br clear="both">
 
-###
+### REDES :
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCBzJgtZqYSIEHaf48DzQXeQ" target="_blank">
@@ -45,10 +52,9 @@
   </a>
 </div>
 
-
 <br clear="both">
 
-
+### MI HISTORIA :
 
 <p align="center">Soy un programador junior recién iniciado en el campo de la tecnología. Desde mi infancia, siempre he sentido una gran fascinación por la tecnología y la informática, y por ello decidí estudiar programación. Me gradué recientemente y ahora estoy ansioso por poner mis habilidades en práctica y continuar creciendo como profesional en el campo de la programación.<br><br>Una de mis principales fortalezas es mi capacidad para aprender y mejorar constantemente. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de desarrollar mis habilidades. Actualmente estoy trabajando en proyectos personales para expandir mi conocimiento en diferentes áreas de la programación.<br><br>Además, soy un colaborador comprometido y un solucionador de problemas apasionado. Me encanta trabajar en equipo y colaborar con otros profesionales para crear soluciones innovadoras y de alta calidad. Estoy convencido de que la programación es una disciplina en constante evolución, y por ello estoy siempre en busca de nuevas oportunidades para aprender y crecer profesionalmente.<br><br>Si buscas un programador junior talentoso y motivado, por favor no dudes en contactarme a través de LinkedIn. Me encantaría unirme a un equipo de trabajo que comparta mi visión y mis valores, y que esté comprometido con el desarrollo de soluciones innovadoras y de alta calidad. ¡Será un placer trabajar contigo y ayudar a llevar tus proyectos al siguiente nivel!</p>
 
@@ -60,7 +66,7 @@
 <br/>  
 
 
-# Podes Ayudar con $$ por los servicios prestados... 
+## Podes Ayudar con $$ por los servicios prestados... 
 
 <a mp-mode="dftl" href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380848810689e018813682e960130" name="MP-payButton" class='blue-ar-l-rn-none'>Una AYUDITA para Este Pobre tipo... </a>
 

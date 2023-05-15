@@ -54,6 +54,12 @@
 
 ###
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EduMMorenolp&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
 # Podes Ayudar con $$ por los servicios prestados... 
 
 <a mp-mode="dftl" href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380848810689e018813682e960130" name="MP-payButton" class='blue-ar-l-rn-none'>Una AYUDITA para Este Pobre tipo... </a>

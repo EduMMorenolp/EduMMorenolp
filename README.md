@@ -12,26 +12,43 @@
 
 ### HERRAMIENTAS :
 
+LENGUAJES DE PROGRAMACIÓN:
 <br clear="both">
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="Python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="Java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="TypeScript logo" />
-
+</div>
+HERRAMIENTAS DE DESARROLLO WEB:
+<br clear="both">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5 logo" />
+</div>
+HERRAMIENTAS DE CONTROL DE VERSIONES:
+<br clear="both">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="Git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="GitHub logo"  />
+</div>
+HERRAMIENTAS DE BASE DE DATOS:
+<br clear="both">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="PostgreSQL logo"  />
+</div>
+IDE UTILIZADOS:
+<br clear="both">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="VS Code logo"  />
+  <img src="./icon48.png" alt="NetBeans logo" style="object-fit: contain; height: 30px; width: 42px;"  />
 </div>
 
 <br clear="both">
 
 ### REDES :
 
-<div align="left">
+<div align="center" >
   <a href="https://www.youtube.com/channel/UCBzJgtZqYSIEHaf48DzQXeQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -54,12 +71,6 @@
 
 <br clear="both">
 
-### MI HISTORIA :
-
-<p align="center">Soy un programador junior recién iniciado en el campo de la tecnología. Desde mi infancia, siempre he sentido una gran fascinación por la tecnología y la informática, y por ello decidí estudiar programación. Me gradué recientemente y ahora estoy ansioso por poner mis habilidades en práctica y continuar creciendo como profesional en el campo de la programación.<br><br>Una de mis principales fortalezas es mi capacidad para aprender y mejorar constantemente. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de desarrollar mis habilidades. Actualmente estoy trabajando en proyectos personales para expandir mi conocimiento en diferentes áreas de la programación.<br><br>Además, soy un colaborador comprometido y un solucionador de problemas apasionado. Me encanta trabajar en equipo y colaborar con otros profesionales para crear soluciones innovadoras y de alta calidad. Estoy convencido de que la programación es una disciplina en constante evolución, y por ello estoy siempre en busca de nuevas oportunidades para aprender y crecer profesionalmente.<br><br>Si buscas un programador junior talentoso y motivado, por favor no dudes en contactarme a través de LinkedIn. Me encantaría unirme a un equipo de trabajo que comparta mi visión y mis valores, y que esté comprometido con el desarrollo de soluciones innovadoras y de alta calidad. ¡Será un placer trabajar contigo y ayudar a llevar tus proyectos al siguiente nivel!</p>
-
-###
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EduMMorenolp&show_icons=true&count_private=true&hide_border=true" align="center" /> 
 
@@ -73,6 +84,14 @@
 
 </div> 
 <br/>  
+
+### MI HISTORIA :
+
+<p align="center">Soy un programador junior recién iniciado en el campo de la tecnología. Desde mi infancia, siempre he sentido una gran fascinación por la tecnología y la informática, y por ello decidí estudiar programación. Me gradué recientemente y ahora estoy ansioso por poner mis habilidades en práctica y continuar creciendo como profesional en el campo de la programación.<br><br>Una de mis principales fortalezas es mi capacidad para aprender y mejorar constantemente. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de desarrollar mis habilidades. Actualmente estoy trabajando en proyectos personales para expandir mi conocimiento en diferentes áreas de la programación.<br><br>Además, soy un colaborador comprometido y un solucionador de problemas apasionado. Me encanta trabajar en equipo y colaborar con otros profesionales para crear soluciones innovadoras y de alta calidad. Estoy convencido de que la programación es una disciplina en constante evolución, y por ello estoy siempre en busca de nuevas oportunidades para aprender y crecer profesionalmente.<br><br>Si buscas un programador junior talentoso y motivado, por favor no dudes en contactarme a través de LinkedIn. Me encantaría unirme a un equipo de trabajo que comparta mi visión y mis valores, y que esté comprometido con el desarrollo de soluciones innovadoras y de alta calidad. ¡Será un placer trabajar contigo y ayudar a llevar tus proyectos al siguiente nivel!</p>
+
+###
+
+
 
 
 ## Podes Ayudar con $$ por los servicios prestados... 

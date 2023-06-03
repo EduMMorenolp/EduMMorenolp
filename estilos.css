@@ -1,0 +1,13 @@
+.donate-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #2196f3;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.donate-button:hover {
+  background-color: #0d8bf5;
+}

@@ -50,6 +50,12 @@ IDE UTILIZADOS:
   </div>
 <br/>  
 
+#### Tu apoyo hace la diferencia. Si valoras los aportes a la comunidad que realizo y deseas contribuir a su continuidad, te invito a realizar una donación. Cada aporte, por pequeño que sea, ayuda a mantener este proyecto en marcha y a seguir brindando un servicio de calidad. ¡Gracias por tu generosidad y apoyo!
+
+[![Puedes colaborar Clikeando en Donar](https://img.shields.io/badge/Puedes%20colaborar%20Clikeando%20en%20-Donar-blue)](https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380848810689e018813682e960130)
+
+
+<br/>  
 ### REDES :
 
 <div align="center" >
@@ -98,8 +104,5 @@ IDE UTILIZADOS:
 
 
 
-## Podes Ayudar con $$ por los servicios prestados... 
-
-<a mp-mode="dftl" href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380848810689e018813682e960130" name="MP-payButton" class='blue-ar-l-rn-none'>Una AYUDITA para Este Pobre tipo... </a>
 
 

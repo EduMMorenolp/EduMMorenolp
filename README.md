@@ -52,7 +52,7 @@ IDE UTILIZADOS:
 
 #### Tu apoyo hace la diferencia. Si valoras los aportes a la comunidad que realizo y deseas contribuir a su continuidad, te invito a realizar una donación. Cada aporte, por pequeño que sea, ayuda a mantener este proyecto en marcha y a seguir brindando un servicio de calidad. ¡Gracias por tu generosidad y apoyo!
 
-[![Puedes colaborar Clikeando en Donar](https://img.shields.io/badge/Puedes%20colaborar%20Clikeando%20en%20-Donar-blue)](https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380848810689e018813682e960130)
+[![Puedes colaborar Clikeando en Donar](https://img.shields.io/badge/Clikeando%20aqui%20puedes%20colaborar%20-Donar-blue)](https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380848810689e018813682e960130)
 
 
 <br/>  

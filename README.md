@@ -83,7 +83,7 @@ IDE UTILIZADOS:
 <br clear="both">
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EduMMorenolp&show_icons=true&count_private=true&hide_border=true&rank_icon=github" align="center" /> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EduMMorenolp&show_icons=true&count_private=true&hide_border=true&rank_icon=github&theme=gruvbox" align="center" /> 
 
   <source align="center"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8&theme=radical"
@@ -91,7 +91,7 @@ IDE UTILIZADOS:
   <source align="center"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8&theme=gruvbox" align="center"/>
 
 </div> 
 <br/>  

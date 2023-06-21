@@ -69,7 +69,7 @@ IDE UTILIZADOS:
   <a href="https://www.twitch.tv/emmorenolp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="https://discord.gg/BzU7nDbT" target="_blank">
+  <a href="https://discord.gg/HPdMbjPx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="e.m.morenolp@gmail.com" target="_blank">

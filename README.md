@@ -36,6 +36,7 @@ HERRAMIENTAS DE BASE DE DATOS:
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="PostgreSQL logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="MySQL logo"  />
 </div>
 IDE UTILIZADOS:
 <br clear="both">

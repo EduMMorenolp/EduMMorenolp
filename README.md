@@ -14,6 +14,8 @@ LENGUAJES DE PROGRAMACIÓN:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="Java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="TypeScript logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" height="30" width="42" alt="React logo" />
+
 </div>
 HERRAMIENTAS DE DESARROLLO WEB:
 <br clear="both">

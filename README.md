@@ -1,5 +1,6 @@
 <h2 align="center">Hola! 👋 ! Soy EduMMorenolp, Soy de Argentina.</h2>
-<h3 align="center"> Dev Full Stack Jr. #CodingSkills Git/GitHub | HTML | CSS | Javascript | TypeScrip | Python | Java | MySQL | React </h3>
+<h3 align="center"> Dev Full Stack Jr. #CodingSkills </h3> 
+<h4 align="center"> Git/GitHub | HTML | CSS | Javascript | TypeScrip | Python | Java | MySQL | React </h4>
 
 ###
 

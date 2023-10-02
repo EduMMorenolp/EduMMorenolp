@@ -11,44 +11,42 @@
 LENGUAJES DE PROGRAMACIÓN:
 <br clear="both">
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="Python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="Java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="TypeScript logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" height="30" width="42" alt="React logo" />
-
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="Python logo" /></a>
+  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="Java logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript logo" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="TypeScript logo" /></a>
+  <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" height="30" width="42" alt="React logo" /></a>
 </div>
 HERRAMIENTAS DE DESARROLLO WEB:
 <br clear="both">
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5 logo" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5 logo" /></a>
 </div>
 HERRAMIENTAS DE CONTROL DE VERSIONES:
 <br clear="both">
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="Git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="GitHub logo"  />
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="Git logo" /></a>
+  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="GitHub logo" /></a>
 </div>
 HERRAMIENTAS DE BASE DE DATOS:
 <br clear="both">
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="PostgreSQL logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="MySQL logo"  />
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="PostgreSQL logo" /></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="MySQL logo" /></a>
 </div>
 IDE UTILIZADOS:
 <br clear="both">
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="VS Code logo"  />
-  <img src="./icon48.png" alt="NetBeans logo" style="object-fit: contain; height: 30px; width: 42px;"  />
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="VS Code logo" /></a>
+  <a href="https://netbeans.apache.org/"><img src="./icon48.png" alt="NetBeans logo" style="object-fit: contain; height: 30px; width: 42px;" /></a>
 </div>
 MAS HERRAMIENTAS:
 <br clear="both">
 <div align="left">
-  <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" height="30" width="42" alt="Looker Studio logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" height="30" width="42" alt="Google Colab logo"  />
-  <img src="https://avatars.githubusercontent.com/u/45339858?s=280&v=4" height="30" width="42" alt="Deepnote logo"  />
-  
+  <a href="https://looker.com/"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" height="30" width="42" alt="Looker Studio logo" /></a>
+  <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" height="30" width="42" alt="Google Colab logo" /></a>
+  <a href="https://www.deepnote.com/"><img src="https://avatars.githubusercontent.com/u/45339858?s=280&v=4" height="30" width="42" alt="Deepnote logo" /></a>
 </div>
 <br clear="both">
 <div align="center" >

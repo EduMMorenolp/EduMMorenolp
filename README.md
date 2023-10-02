@@ -42,9 +42,14 @@ IDE UTILIZADOS:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="VS Code logo"  />
   <img src="./icon48.png" alt="NetBeans logo" style="object-fit: contain; height: 30px; width: 42px;"  />
   <img src="./iconANB.png" alt="Apache NetBeans IDE 18 logo" style="object-fit: contain; height: 30px; width: 42px;" />
-
 </div>
-
+MAS HERRAMIENTAS:
+<br clear="both">
+<div align="left">
+  <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" height="30" width="42" alt="Looker Studio logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" height="30" width="42" alt="Google Colab logo"  />
+  
+</div>
 <br clear="both">
 <div align="center" >
   <h1> [ PORFOLIO ] : https://edummorenolp.github.io/Porfolio </h1>

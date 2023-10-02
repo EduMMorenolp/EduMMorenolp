@@ -41,7 +41,6 @@ IDE UTILIZADOS:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="VS Code logo"  />
   <img src="./icon48.png" alt="NetBeans logo" style="object-fit: contain; height: 30px; width: 42px;"  />
-  <img src="./iconANB.png" alt="Apache NetBeans IDE 18 logo" style="object-fit: contain; height: 30px; width: 42px;" />
 </div>
 MAS HERRAMIENTAS:
 <br clear="both">

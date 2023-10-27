@@ -2,6 +2,14 @@
 <h3 align="center"> Dev Full Stack Jr. #CodingSkills </h3> 
 <h4 align="center"> Git/GitHub | HTML | CSS | Javascript | TypeScrip | Python | Java | MySQL | React </h4>
 
+<!--
+BIENVENIDO/A AL BACK STAGE.... DE EDUARDO MORENO.
+Puedes usar de guia para realizar tu github.
+Pero recuerda, siempre dar las gracias en mis redes..
+Y si te sobra unos pesos donar en los QR que tienes debajo. 
+Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO !.
+-->
+
 ###
 
 <img align="right" height="120" src="https://i.gifer.com/AjA6.gif"  />

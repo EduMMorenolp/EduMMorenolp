@@ -58,6 +58,7 @@ MAS HERRAMIENTAS:
   <a href="https://looker.com/"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" height="30" width="42" alt="Looker Studio logo" /></a>
   <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" height="30" width="42" alt="Google Colab logo" /></a>
   <a href="https://www.deepnote.com/"><img src="https://avatars.githubusercontent.com/u/45339858?s=280&v=4" height="30" width="42" alt="Deepnote logo" /></a>
+  <br>
   <a href="https://numpy.org/"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="30" width="42" alt="Numpy" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/250px-Pandas_mark.svg.png" height="30" width="42" alt="Pandas" /></a>
   <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" height="30" width="42" alt="Matplotlib" /></a>

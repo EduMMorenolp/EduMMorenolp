@@ -1,7 +1,8 @@
 <h2 align="center">Hola! 👋 ! Soy EduMMorenolp, Soy de Argentina.</h2>
 <h3 align="center"> Dev Full Stack Jr. #CodingSkills </h3> 
 <h4 align="center"> Git/GitHub | HTML | CSS | Javascript | TypeScrip | Python | Java | MySQL | React </h4>
-
+<h3 align="center"> Data Analyst Jr. #CodingSkills </h3>
+<h4 align="center"> Deepnote | Google Colab | Google Sheets | Numpy | Pandas | Matplotlib | Seaborn
 <!--
 BIENVENIDO/A AL BACK STAGE.... DE EDUARDO MORENO.
 Puedes usar de guia para realizar tu github.

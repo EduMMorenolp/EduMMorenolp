@@ -68,7 +68,7 @@ MAS HERRAMIENTAS:
 </div>
 <br clear="both">
 <div align="center" >
-  <h1> [ PORFOLIO ] : https://edummorenolp.github.io/Porfolio </h1>
+  <h1> [ PORFOLIO ] : https://github.com/EduMMorenolp/Portfolio-React [ EN CONSTRUCCIÓN ] </h1>
   </div>
 
 <br clear="both">

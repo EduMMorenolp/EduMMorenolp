@@ -80,13 +80,16 @@ MAS HERRAMIENTAS:
 
 ### Tu apoyo hace la diferencia. Si valoras los aportes a la comunidad que realizo y deseas contribuir a su continuidad, te invito a realizar una donación. Cada aporte, por pequeño que sea, ayuda a mantener este proyecto en marcha y a seguir brindando un servicio de calidad. ¡Gracias por tu generosidad y apoyo!
 
-### QR Cafecito MercadoPago
-
+<div align="center" >
+<a>
+  <p> QR Cafecito MercadoPago </p>
 <img src="./QRCafecitoSolo.png" alt="QR Cafecito" height="200" />
-
-### QR Cafecito PayPal
-
+</a>
+<a>
+  <p> QR Cafecito PayPal </p>
 <img src="./QRCafecitoPayPal.png" alt="QR Cafecito" height="200" />
+</a>
+</div>
 <br/>  
 
 ### REDES :

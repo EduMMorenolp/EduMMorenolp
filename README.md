@@ -78,7 +78,7 @@ MAS HERRAMIENTAS:
 <br/>
 
 
-### Tu apoyo hace la diferencia. Si valoras los aportes a la comunidad que realizo y deseas contribuir a su continuidad, te invito a realizar una donación. Cada aporte, por pequeño que sea, ayuda a mantener este proyecto en marcha y a seguir brindando un servicio de calidad. ¡Gracias por tu generosidad y apoyo!
+<!-- ### Tu apoyo hace la diferencia. Si valoras los aportes a la comunidad que realizo y deseas contribuir a su continuidad, te invito a realizar una donación. Cada aporte, por pequeño que sea, ayuda a mantener este proyecto en marcha y a seguir brindando un servicio de calidad. ¡Gracias por tu generosidad y apoyo!
 
 <div align="center" >
 <a>
@@ -90,7 +90,7 @@ MAS HERRAMIENTAS:
 <img src="./QRCafecitoPayPal.png" alt="QR Cafecito" height="200" />
 </a>
 </div>
-<br/>  
+<br/>  -->
 
 ### REDES :
 

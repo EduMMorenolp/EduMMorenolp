@@ -68,8 +68,6 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 
 <!-- ### Tu apoyo hace la diferencia. Si valoras los aportes a la comunidad que realizo y deseas contribuir a su continuidad, te invito a realizar una donación. Cada aporte, por pequeño que sea, ayuda a mantener este proyecto en marcha y a seguir brindando un servicio de calidad. ¡Gracias por tu generosidad y apoyo!
 
-<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
-
 <div align="center" >
 <a>
   <p> QR Cafecito MercadoPago </p>
@@ -99,6 +97,9 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 ### 🧭 MI HISTORIA :
 
 <p align="center">Soy un programador junior recién iniciado en el campo de la tecnología. Desde mi infancia, siempre he sentido una gran fascinación por la tecnología y la informática, y por ello decidí estudiar programación. Me gradué recientemente y ahora estoy ansioso por poner mis habilidades en práctica y continuar creciendo como profesional en el campo de la programación.<br><br>Una de mis principales fortalezas es mi capacidad para aprender y mejorar constantemente. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de desarrollar mis habilidades. Actualmente estoy trabajando en proyectos personales para expandir mi conocimiento en diferentes áreas de la programación.<br><br>Además, soy un colaborador comprometido y un solucionador de problemas apasionado. Me encanta trabajar en equipo y colaborar con otros profesionales para crear soluciones innovadoras y de alta calidad. Estoy convencido de que la programación es una disciplina en constante evolución, y por ello estoy siempre en busca de nuevas oportunidades para aprender y crecer profesionalmente.<br><br>Si buscas un programador junior talentoso y motivado, por favor no dudes en contactarme a través de LinkedIn. Me encantaría unirme a un equipo de trabajo que comparta mi visión y mis valores, y que esté comprometido con el desarrollo de soluciones innovadoras y de alta calidad. ¡Será un placer trabajar contigo y ayudar a llevar tus proyectos al siguiente nivel!</p>
+
+
+<p align = "center"><a href="https://github.com/EduMMorenolp/EduMMorenolp/blob/main/QRCafecitoPayPal.png"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

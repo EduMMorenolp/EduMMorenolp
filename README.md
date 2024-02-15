@@ -15,7 +15,12 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 <!--tech stack icons-->
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,java,spring,mysql,sqlite,py,react,vscode,powershell&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,powershell&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,py,react,vscode&perline=14" />
   </a>
 </p>
 
@@ -40,9 +45,7 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
   <a href="https://www.linkedin.com/in/eduardo-m-moreno-programador/">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
   </a>
-  <a href="mailto:e.m.morenolp@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
-  </a>
+ 
   <a href="https://www.instagram.com/edu.m.morenolp/">
     <img src="https://skillicons.dev/icons?i=instagram&perline=14" />
   </a>
@@ -50,7 +53,12 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
     <img src="https://skillicons.dev/icons?i=twitter&perline=14" />
   </a>
 </p>
-
+<h3 align="center">Mail</h3>
+<p align="center">
+ <a href="mailto:e.m.morenolp@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
+  </a>
+</p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>

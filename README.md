@@ -9,6 +9,39 @@ Y si te sobra unos pesos donar en los QR que tienes debajo.
 Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO !.
 -->
 
+<h2 align="center">¡Bienvenido a mi repositorio de GitHub!</h2>
+
+<h4 align="center">Soy un apasionado programador web con experiencia en desarrollo frontend y backend. Mi objetivo es crear soluciones innovadoras y eficientes que impulsen el éxito de los proyectos en los que participo.</h4>
+
+<h2 align="center">Acerca de mí</h2>
+<ul align="center">
+<p> 🌟 Me encanta colaborar en proyectos de código abierto y aprender de otros desarrolladores.</p>
+<p> 🚀 Estoy emocionado de compartir mis proyectos contigo y ser parte de la comunidad de GitHub.</p>
+</ul>
+
+<h2 align="center">Contacto</h2>
+
+<h4 align="center"> Si estás interesado en colaborar en alguno de mis proyectos o tienes alguna pregunta, ¡no dudes en ponerte en contacto conmigo!</h4>
+
+<h4 align="center"> ¡Gracias por visitar mi perfil y espero que encuentres inspiración en mis proyectos!</h4>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardo-m-moreno-programador/">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
+  </a>
+ 
+  <a href="https://www.instagram.com/edu.m.morenolp/">
+    <img src="https://skillicons.dev/icons?i=instagram&perline=14" />
+  </a>
+  <a href="https://twitter.com/EduMMorenolp">
+    <img src="https://skillicons.dev/icons?i=twitter&perline=14" />
+  </a>
+  
+  <a href="mailto:e.m.morenolp@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
+  </a>
+</p>
+
 <br clear="both">
 
 <h2 align="center"> Dev Full Stack #CodingSkills </h2> 
@@ -40,25 +73,6 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 
 <br clear="both">
 
-<h3 align="center">REDES SOCIALES</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-m-moreno-programador/">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
-  </a>
- 
-  <a href="https://www.instagram.com/edu.m.morenolp/">
-    <img src="https://skillicons.dev/icons?i=instagram&perline=14" />
-  </a>
-  <a href="https://twitter.com/EduMMorenolp">
-    <img src="https://skillicons.dev/icons?i=twitter&perline=14" />
-  </a>
-</p>
-<h3 align="center">Mail</h3>
-<p align="center">
- <a href="mailto:e.m.morenolp@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
-  </a>
-</p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
@@ -88,8 +102,6 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 </div>
 <br/>  -->
 
-<br clear="both">
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EduMMorenolp&show_icons=true&count_private=true&hide_border=true&rank_icon=github&theme=gruvbox" align="center" /> 
   <source align="center"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8&theme=radical"
@@ -104,7 +116,11 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 
 ### 🧭 MI HISTORIA :
 
-<p align="center">Soy un programador junior recién iniciado en el campo de la tecnología. Desde mi infancia, siempre he sentido una gran fascinación por la tecnología y la informática, y por ello decidí estudiar programación. Me gradué recientemente y ahora estoy ansioso por poner mis habilidades en práctica y continuar creciendo como profesional en el campo de la programación.<br><br>Una de mis principales fortalezas es mi capacidad para aprender y mejorar constantemente. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de desarrollar mis habilidades. Actualmente estoy trabajando en proyectos personales para expandir mi conocimiento en diferentes áreas de la programación.<br><br>Además, soy un colaborador comprometido y un solucionador de problemas apasionado. Me encanta trabajar en equipo y colaborar con otros profesionales para crear soluciones innovadoras y de alta calidad. Estoy convencido de que la programación es una disciplina en constante evolución, y por ello estoy siempre en busca de nuevas oportunidades para aprender y crecer profesionalmente.<br><br>Si buscas un programador junior talentoso y motivado, por favor no dudes en contactarme a través de LinkedIn. Me encantaría unirme a un equipo de trabajo que comparta mi visión y mis valores, y que esté comprometido con el desarrollo de soluciones innovadoras y de alta calidad. ¡Será un placer trabajar contigo y ayudar a llevar tus proyectos al siguiente nivel!</p>
+<p align="center">¡Hola! Soy Eduardo, un entusiasta programador junior con una pasión ardiente por la tecnología desde que era niño. Recientemente me gradué y estoy emocionado por empezar mi carrera en el mundo de la programación.</p>
+<p align="center">Me caracterizo por mi insaciable sed de aprendizaje y mejora continua. Siempre estoy explorando nuevas tecnologías y trabajando en proyectos personales para expandir mis habilidades.</p>
+<p align="center">Soy un solucionador de problemas comprometido y me encanta colaborar en equipo para crear soluciones innovadoras y de alta calidad. Creo firmemente en el poder del trabajo en equipo y estoy listo para unirme a un equipo que comparta mi visión y valores.</p>
+<p align="center">Si estás buscando un programador junior talentoso y motivado, ¡no dudes en contactarme! Estoy ansioso por contribuir con mi pasión y habilidades para llevar nuestros proyectos al siguiente nivel.</p>
+<p align="center">¡Espero con ansias trabajar juntos y hacer cosas increíbles! Conéctate conmigo en LinkedIn y empecemos esta emocionante aventura juntos.</p>
 
 
 <p align = "center"><a href="https://github.com/EduMMorenolp/EduMMorenolp/blob/main/QRCafecitoPayPal.png"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="paypal" /></a></p><br><br>

@@ -15,32 +15,9 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 
 <h2 align="center">Acerca de mí</h2>
 <ul align="center">
-<p> 🌟 Me encanta colaborar en proyectos de código abierto y aprender de otros desarrolladores.</p>
+<p> 🌟 Me encanta colaborar en proyectos y aprender de otros desarrolladores.</p>
 <p> 🚀 Estoy emocionado de compartir mis proyectos contigo y ser parte de la comunidad de GitHub.</p>
 </ul>
-
-<h2 align="center">Contacto</h2>
-
-<h4 align="center"> Si estás interesado en colaborar en alguno de mis proyectos o tienes alguna pregunta, ¡no dudes en ponerte en contacto conmigo!</h4>
-
-<h4 align="center"> ¡Gracias por visitar mi perfil y espero que encuentres inspiración en mis proyectos!</h4>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-m-moreno-programador/">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
-  </a>
- 
-  <a href="https://www.instagram.com/edu.m.morenolp/">
-    <img src="https://skillicons.dev/icons?i=instagram&perline=14" />
-  </a>
-  <a href="https://twitter.com/EduMMorenolp">
-    <img src="https://skillicons.dev/icons?i=twitter&perline=14" />
-  </a>
-  
-  <a href="mailto:e.m.morenolp@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
-  </a>
-</p>
 
 <br clear="both">
 
@@ -121,6 +98,30 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 <p align="center">Soy un solucionador de problemas comprometido y me encanta colaborar en equipo para crear soluciones innovadoras y de alta calidad. Creo firmemente en el poder del trabajo en equipo y estoy listo para unirme a un equipo que comparta mi visión y valores.</p>
 <p align="center">Si estás buscando un programador junior talentoso y motivado, ¡no dudes en contactarme! Estoy ansioso por contribuir con mi pasión y habilidades para llevar nuestros proyectos al siguiente nivel.</p>
 <p align="center">¡Espero con ansias trabajar juntos y hacer cosas increíbles! Conéctate conmigo en LinkedIn y empecemos esta emocionante aventura juntos.</p>
+
+<h2 align="center">Contacto</h2>
+
+<h4 align="center"> Si estás interesado en colaborar en alguno de mis proyectos o tienes alguna pregunta, ¡no dudes en ponerte en contacto conmigo!</h4>
+
+<h4 align="center"> ¡Gracias por visitar mi perfil y espero que encuentres inspiración en mis proyectos!</h4>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardo-m-moreno-programador/">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
+  </a>
+ 
+  <a href="https://www.instagram.com/edu.m.morenolp/">
+    <img src="https://skillicons.dev/icons?i=instagram&perline=14" />
+  </a>
+  <a href="https://twitter.com/EduMMorenolp">
+    <img src="https://skillicons.dev/icons?i=twitter&perline=14" />
+  </a>
+  
+  <a href="mailto:e.m.morenolp@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
+  </a>
+</p>
+
 
 
 <p align = "center"><a href="https://github.com/EduMMorenolp/EduMMorenolp/blob/main/QRCafecitoPayPal.png"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="paypal" /></a></p><br><br>

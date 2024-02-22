@@ -9,7 +9,7 @@ Y si te sobra unos pesos donar en los QR que tienes debajo.
 Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO !.
 -->
 
-<h2 align="center">¡Bienvenido a mi repositorio de GitHub!</h2>
+<h2 align="center">¡Bienvenido a mi GitHub!</h2>
 
 <h4 align="center">Soy un apasionado programador web con experiencia en desarrollo frontend y backend. Mi objetivo es crear soluciones innovadoras y eficientes que impulsen el éxito de los proyectos en los que participo.</h4>
 
@@ -31,6 +31,11 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,py,react,vscode&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=npm,prisma,nextjs,nodejs&perline=14" />
   </a>
 </p>
 

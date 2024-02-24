@@ -11,7 +11,7 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 
 <h2 align="center">¡Bienvenido a mi GitHub!</h2>
 
-<h4 align="center">Soy un apasionado programador web con experiencia en desarrollo frontend y backend. Mi objetivo es crear soluciones innovadoras y eficientes que impulsen el éxito de los proyectos en los que participo.</h4>
+<h4 align="center">Soy un apasionado programador con experiencia en desarrollo frontend y backend. Mi objetivo es crear soluciones que impulsen el éxito de los proyectos en los que participo.</h4>
 
 <h2 align="center">Acerca de mí</h2>
 <ul align="center">
@@ -98,10 +98,10 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 
 ### 🧭 MI HISTORIA :
 
-<p align="center">¡Hola! Soy Eduardo, un entusiasta programador junior con una pasión ardiente por la tecnología desde que era niño. Recientemente me gradué y estoy emocionado por empezar mi carrera en el mundo de la programación.</p>
+<p align="center">¡Hola! Soy Eduardo, un entusiasta programador con una pasión ardiente por la tecnología desde que era niño. Recientemente me gradué y estoy emocionado por empezar mi carrera en el mundo de la programación.</p>
 <p align="center">Me caracterizo por mi insaciable sed de aprendizaje y mejora continua. Siempre estoy explorando nuevas tecnologías y trabajando en proyectos personales para expandir mis habilidades.</p>
 <p align="center">Soy un solucionador de problemas comprometido y me encanta colaborar en equipo para crear soluciones innovadoras y de alta calidad. Creo firmemente en el poder del trabajo en equipo y estoy listo para unirme a un equipo que comparta mi visión y valores.</p>
-<p align="center">Si estás buscando un programador junior talentoso y motivado, ¡no dudes en contactarme! Estoy ansioso por contribuir con mi pasión y habilidades para llevar nuestros proyectos al siguiente nivel.</p>
+<p align="center">Si estás buscando un programador talentoso y motivado, ¡no dudes en contactarme! Estoy ansioso por contribuir con mi pasión y habilidades para llevar nuestros proyectos al siguiente nivel.</p>
 <p align="center">¡Espero con ansias trabajar juntos y hacer cosas increíbles! Conéctate conmigo en LinkedIn y empecemos esta emocionante aventura juntos.</p>
 
 <h2 align="center">Contacto</h2>

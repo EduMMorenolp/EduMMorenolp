@@ -50,7 +50,7 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
   <a href="https://numpy.org/"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="40" width="52 alt="Numpy" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/250px-Pandas_mark.svg.png" height="40" width="52 alt="Pandas" /></a>
   <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" height="40" width="52 alt="Matplotlib" /></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" height="40" width="52 alt="Seaborn" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" height="40" width="52 alt="Seaborn" /></a>
 </div>
 
 <br clear="both">

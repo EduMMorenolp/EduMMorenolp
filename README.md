@@ -43,14 +43,14 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 
 <h2 align="center"> Data Analyst Jr. #CodingSkills </h2>
 <div align="center">
-  <a href="https://docs.google.com/"><img src="https://media.flaticon.com/dist/min/img/landing/gsuite/sheets.svg" height="30" width="42" alt="Google Sheets" /></a>
-  <a href="https://looker.com/"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" height="30" width="42" alt="Looker Studio logo" /></a>
-  <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" height="30" width="42" alt="Google Colab logo" /></a>
-  <a href="https://www.deepnote.com/"><img src="https://avatars.githubusercontent.com/u/45339858?s=280&v=4" height="30" width="42" alt="Deepnote logo" /></a>
-  <a href="https://numpy.org/"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="30" width="42" alt="Numpy" /></a>
-  <a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/250px-Pandas_mark.svg.png" height="30" width="42" alt="Pandas" /></a>
-  <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" height="30" width="42" alt="Matplotlib" /></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" height="30" width="42" alt="Seaborn" /></a>
+  <a href="https://docs.google.com/"><img src="https://media.flaticon.com/dist/min/img/landing/gsuite/sheets.svg" height="40" width="52" alt="Google Sheets" /></a>
+  <a href="https://looker.com/"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" height="40" width="52 alt="Looker Studio logo" /></a>
+  <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" height="40" width="52 alt="Google Colab logo" /></a>
+  <a href="https://www.deepnote.com/"><img src="https://avatars.githubusercontent.com/u/45339858?s=280&v=4" height="40" width="52 alt="Deepnote logo" /></a>
+  <a href="https://numpy.org/"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="40" width="52 alt="Numpy" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/250px-Pandas_mark.svg.png" height="40" width="52 alt="Pandas" /></a>
+  <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" height="40" width="52 alt="Matplotlib" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" height="40" width="52 alt="Seaborn" /></a>
 </div>
 
 <br clear="both">

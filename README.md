@@ -35,7 +35,7 @@ Desde ya muchas gracias por usarme como referencia y mucha suerte con el CODIGO 
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=npm,prisma,nextjs,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=npm,prisma,nextjs,nodejs,tailwind&perline=14" />
   </a>
 </p>
 

@@ -64,27 +64,6 @@ Saludos de Eduardo M Moreno
   <h1> [ PORFOLIO ][ EN CONSTRUCCIÓN ] : https://edummorenolp.github.io/Portfolio-React/  </h1>
   </div>
 
-<div align="center" >
-  <h1> [ Aprender de Programacion ] : https://edummorenolp.github.io/Aprende-De-Programacion </h1>
-  </div>
-<br/>
-
-
-
-<!-- ### Tu apoyo hace la diferencia. Si valoras los aportes a la comunidad que realizo y deseas contribuir a su continuidad, te invito a realizar una donación. Cada aporte, por pequeño que sea, ayuda a mantener este proyecto en marcha y a seguir brindando un servicio de calidad. ¡Gracias por tu generosidad y apoyo!
-
-<div align="center" >
-<a>
-  <p> QR Cafecito MercadoPago </p>
-<img src="./QRCafecitoSolo.png" alt="QR Cafecito" height="200" />
-</a>
-<a>
-  <p> QR Cafecito PayPal </p>
-<img src="./QRCafecitoPayPal.png" alt="QR Cafecito" height="200" />
-</a>
-</div>
-<br/>  -->
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EduMMorenolp&show_icons=true&count_private=true&hide_border=true&rank_icon=github&theme=gruvbox" align="center" /> 
   <source align="center"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8&theme=radical"

@@ -61,7 +61,7 @@ Saludos de Eduardo M Moreno
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <div align="center" >
-  <h1> [ PORFOLIO ][ EN CONSTRUCCIÓN ] : https://edummorenolp.github.io/Portfolio-React/  </h1>
+  <h3> [PORFOLIO][EN CONSTRUCCIÓN] : https://edummorenolp.github.io/Portfolio-React/  </h3>
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

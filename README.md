@@ -64,7 +64,9 @@ Saludos de Eduardo M Moreno
   <h1> [ PORFOLIO ][ EN CONSTRUCCIÓN ] : https://edummorenolp.github.io/Portfolio-React/  </h1>
 </div>
 
-<div align="center">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<div align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=EduMMorenolp&show_icons=true&count_private=true&hide_border=true&rank_icon=github&theme=gruvbox" align="center" /> 
   <source align="center"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8&theme=radical"

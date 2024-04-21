@@ -82,7 +82,7 @@ Saludos de Eduardo M Moreno Dev Web Full Stack
 
 ### 🧭 MI HISTORIA :
 
-<p align="center">¡Hola! Soy Eduardo, un entusiasta programador con una pasión ardiente por la tecnología desde que era niño. Recientemente me gradué y estoy emocionado por empezar mi carrera en el mundo de la programación.</p>
+<p align="center">¡Hola! Soy Eduardo, un entusiasta programador con una pasión ardiente por la tecnología desde que era niño. Me gradué y estoy emocionado por mi carrera en el mundo de la programación.</p>
 <p align="center">Me caracterizo por mi insaciable sed de aprendizaje y mejora continua. Siempre estoy explorando nuevas tecnologías y trabajando en proyectos personales para expandir mis habilidades.</p>
 <p align="center">Soy un solucionador de problemas comprometido y me encanta colaborar en equipo para crear soluciones innovadoras y de alta calidad. Creo firmemente en el poder del trabajo en equipo y estoy listo para unirme a un equipo que comparta mi visión y valores.</p>
 <p align="center">Si estás buscando un programador talentoso y motivado, ¡no dudes en contactarme! Estoy ansioso por contribuir con mi pasión y habilidades para llevar nuestros proyectos al siguiente nivel.</p>

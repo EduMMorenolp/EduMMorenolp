@@ -3,7 +3,7 @@
 
 <!--
 
-BIENVENIDO/A AL BACK STAGE... DE EDUARDO M MORENO.
+BIENVENIDO/A AL BACK STAGE ... DE EDUARDO M MORENO.
 Puedes usar de guia para realizar tu github.
 Pero recuerda, siempre dar las gracias en mis redes..
 Y si te sobra unos pesos donar en los QR que tienes debajo. 

@@ -38,7 +38,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=npm,prisma,nextjs,nodejs,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=npm,prisma,nextjs,nodejs,tailwind,figma,windows&perline=14" />
   </a>
 </p>
 

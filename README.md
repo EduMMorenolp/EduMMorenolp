@@ -13,7 +13,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
 
 <h2 align="center">¡Bienvenido a mi GitHub!</h2>
 
-<h4 align="center">Soy un apasionado programador con experiencia en desarrollo frontend y backend. Mi objetivo es crear soluciones que impulsen el éxito de los proyectos en los que participo.</h4>
+<h4 align="center">Soy un apasionado programador con experiencia en desarrollo frontend y backend.</h4>
 
 <h2 align="center">Acerca de mí</h2>
 <ul align="center">

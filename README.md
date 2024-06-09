@@ -25,21 +25,21 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
 <h3 align="center"> Frontend </h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,nextjs&perline=14" />
   </a>
 </p>
 
 <h3 align="center"> Backend </h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,nodejs,prisma,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,nodejs,express,prisma,py&perline=14" />
   </a>
 </p>
 
 <h3 align="center"> Herramientas </h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,github,powershell,npm,figma,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,npm,figma,windows,discord,stackoverflow&perline=14" />
   </a>
 </p>
 

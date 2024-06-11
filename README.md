@@ -17,8 +17,8 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
 
 <h2 align="center">Acerca de mí</h2>
 <ul align="center">
-  <li>🌟 Me encanta colaborar en proyectos y aprender de otros desarrolladores.</li>
-  <li>🚀 Estoy emocionado de compartir mis proyectos contigo y ser parte de la comunidad de GitHub.</li>
+  <p>🌟 Me encanta colaborar en proyectos y aprender de otros desarrolladores.</p>
+  <p>🚀 Estoy emocionado de compartir mis proyectos contigo y ser parte de la comunidad de GitHub.</p>
 </ul>
 
 <h2 align="center"> Dev Full Stack #CodingSkills </h2> 

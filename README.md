@@ -20,7 +20,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
   <p>🚀 Estoy emocionado de compartir mis proyectos contigo y ser parte de la comunidad de GitHub.</p>
 </ul>
 
-<h2 align="center"> Dev Full Stack #CodingSkills </h2> 
+<h2 align="center"> Desarrolador Full Stack #CodingSkills </h2> 
 
 <h3 align="center"> Frontend </h3>
 <p align="center">
@@ -43,7 +43,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
   </a>
 </p>
 
-<h2 align="center"> Data Analyst Jr. #CodingSkills </h2>
+<h2 align="center"> Big Data / Data Analyst Jr. #CodingSkills </h2>
 <div align="center">
   <a href="https://docs.google.com/"><img src="https://media.flaticon.com/dist/min/img/landing/gsuite/sheets.svg" height="40" width="52" alt="Google Sheets" /></a>
   <a href="https://looker.com/"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" height="40" width="52" alt="Looker Studio logo" /></a>

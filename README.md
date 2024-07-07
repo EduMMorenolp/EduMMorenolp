@@ -1,5 +1,4 @@
 <!--
-
 BIENVENIDO/A AL BACK STAGE ... DE EDUARDO M MORENO.
 Puedes usar de guia para realizar tu github.
 Pero recuerda, siempre dar las gracias en mis redes.

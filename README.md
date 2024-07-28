@@ -21,7 +21,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
   <p>🚀 Estoy emocionado de compartir mis proyectos contigo y ser parte de la comunidad de GitHub.</p>
 </ul>
 
-<h2 align="center"> Desarrolador Full Stack #CodingSkills </h2> 
+<h2 align="center"> Desarrolador Web FS #CodingSkills </h2> 
 
 <h3 align="center"> Frontend </h3>
 <p align="center">

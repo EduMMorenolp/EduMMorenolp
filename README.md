@@ -97,6 +97,9 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
 <h4 align="center"> ¡Gracias por visitar mi perfil y espero que encuentres inspiración en mis proyectos!</h4>
 
 <p align="center">
+    <a href="https://www.youtube.com/@edummorenolp/">
+    <img height="50" src="https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png" />
+  </a>
   <a href="https://www.linkedin.com/in/eduardo-m-moreno-programador/">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
   </a>

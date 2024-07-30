@@ -31,7 +31,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
 <h3 align="center"> Backend </h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,nodejs,express,prisma,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,mongo,nodejs,express,prisma,py&perline=14" />
   </a>
 </p>
 

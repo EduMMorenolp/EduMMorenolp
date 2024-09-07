@@ -21,30 +21,24 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
   <p>🚀 Estoy emocionado de compartir mis proyectos contigo y ser parte de la comunidad de GitHub.</p>
 </ul>
 
-<h2 align="center"> Desarrolador Web FS #CodingSkills </h2> 
-
-<h3 align="center"> Frontend </h3>
+<h2 align="center"> Desarrolador Web FS </h2> 
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,nextjs&perline=14" />
   </a>
 </p>
-
-<h3 align="center"> Backend </h3>
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,mongo,nodejs,express,prisma,py&perline=14" />
   </a>
 </p>
-
-<h3 align="center"> Herramientas </h3>
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,npm,figma,windows,discord,stackoverflow&perline=14" />
   </a>
 </p>
 
-<h2 align="center"> Big Data / Data Analyst Jr. #CodingSkills </h2>
+<h2 align="center"> Big Data / Data Analyst </h2>
 <div align="center">
   <a href="https://docs.google.com/"><img src="https://media.flaticon.com/dist/min/img/landing/gsuite/sheets.svg" height="40" width="52" alt="Google Sheets" /></a>
   <a href="https://looker.com/"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" height="40" width="52" alt="Looker Studio logo" /></a>

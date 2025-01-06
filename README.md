@@ -25,7 +25,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
 <h2 align="center"> Desarrolador Frontend </h2> 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,nextjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite&perline=14" />
   </a>
 </p>
 <h2 align="center"> Desarrolador Backend </h2> 

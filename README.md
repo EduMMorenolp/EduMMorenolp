@@ -41,7 +41,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
   </a>
 </p>
 
-<h2 align="center"> Big Data / Data Analyst </h2>
+<h2 align="center"> Como hobby Big Data / Data Analyst </h2>
 <div align="center">
   <a href="https://docs.google.com/"><img src="https://media.flaticon.com/dist/min/img/landing/gsuite/sheets.svg" height="40" width="52" alt="Google Sheets" /></a>
   <a href="https://looker.com/"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" height="40" width="52" alt="Looker Studio logo" /></a>

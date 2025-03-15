@@ -14,7 +14,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
 
 <h2 align="center">¡Bienvenido a mi GitHub!</h2>
 
-<h4 align="center">Soy un apasionado programador con experiencia en desarrollo frontend y backend.</h4>
+<h4 align="center">Soy un apasionado programador con experiencia en desarrollo backend y frontend.</h4>
 
 <h2 align="center">Acerca de mí</h2>
 <ul align="center">
@@ -22,16 +22,16 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
   <p>🚀 Estoy emocionado de compartir mis proyectos contigo y ser parte de la comunidad de GitHub.</p>
 </ul>
 
-<h2 align="center"> Desarrolador Frontend </h2> 
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,vite&perline=14" />
-  </a>
-</p>
 <h2 align="center"> Desarrolador Backend </h2> 
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,mongo,nodejs,express,prisma,py&perline=14" />
+  </a>
+</p>
+<h2 align="center"> Desarrolador Frontend </h2> 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,vite&perline=14" />
   </a>
 </p>
 <h2 align="center"> Herramientas </h2> 

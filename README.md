@@ -77,13 +77,14 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8&theme=gruvbox" align="center"/>
 </div> 
 
-### 🧭 MI HISTORIA :
+### 🧭 Mas Sobre Mi:
 
-<p align="center">¡Hola! Soy Eduardo, un entusiasta programador con una pasión ardiente por la tecnología desde que era niño. Me gradué y estoy emocionado por mi carrera en el mundo de la programación.</p>
-<p align="center">Me caracterizo por mi insaciable sed de aprendizaje y mejora continua. Siempre estoy explorando nuevas tecnologías y trabajando en proyectos personales para expandir mis habilidades.</p>
-<p align="center">Soy un solucionador de problemas comprometido y me encanta colaborar en equipo para crear soluciones y de calidad. Creo firmemente en el poder del trabajo en equipo y estoy listo para unirme a un equipo que comparta mi visión y valores.</p>
-<p align="center">Si estás buscando un programador talentoso y motivado, ¡no dudes en contactarme! Estoy ansioso por contribuir con mi pasión y habilidades para llevar nuestros proyectos al siguiente nivel.</p>
-<p align="center">¡Espero con ansias trabajar juntos y hacer cosas increíbles! Conéctate conmigo en LinkedIn y empecemos esta emocionante aventura juntos.</p>
+<p align="center">Desarrollador Web desde Argentina. Apasionado por el código limpio, las soluciones escalables y aprender algo nuevo cada día.
+Tengo experiencia en desarrollo backend con C#, Java, Node.js, y frontend con React, Tailwind, Vite... ¡y siempre estoy explorando nuevas herramientas!</p>
+<p align="center">🎓 Me formé como técnico en software y desde entonces no paro de construir proyectos personales, mejorar mis habilidades y experimentar con nuevas tecnologías.</p>
+<p align="center">🧠 Además del desarrollo, tengo interés en Big Data y el análisis de datos usando Google Sheets, Looker Studio, Colab, Pandas, Matplotlib… porque me encanta extraer valor de la información.</p>
+<p align="center">🚀 Mi objetivo: ser parte de un equipo innovador donde pueda aportar con mi entusiasmo, conocimientos y muchas ganas de seguir creciendo como desarrollador.</p>
+<p align="center">🤝 Si buscas alguien comprometido, proactivo y apasionado por la tecnología, ¡no dudes en contactarme!</p>
 
 <h2 align="center">Contacto</h2>
 

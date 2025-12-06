@@ -66,7 +66,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
 
-<div align="center" display="flex">
+<!-- <div align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=EduMMorenolp&show_icons=true&count_private=true&hide_border=true&rank_icon=github&theme=gruvbox" align="center" /> 
   <source align="center"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8&theme=radical"
@@ -75,7 +75,7 @@ Saludos de Eduardo M Moreno Desarrollador Web Full Stack
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMMorenolp&layout=compact&langs_count=8&theme=gruvbox" align="center"/>
-</div> 
+</div>  -->
 
 ### 🧭 Mas Sobre Mi:
 
@@ -121,7 +121,3 @@ Tengo experiencia en desarrollo backend con C#, Java, Node.js, y frontend con Re
 </div>
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/EduM/count.svg?"  />
-</div>

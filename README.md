@@ -12,7 +12,7 @@
   
 | **Backend & Sistemas** | **Frontend** | **Data & IA** | **Herramientas & DevOps** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs,express,python,c&perline=4" /> | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap&perline=4" /> | <img src="https://skillicons.dev/icons?i=mongo,mysql,sqlite,postgres,prisma,tensorflow,pytorch,anaconda&perline=4" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,windows,vscode,powershell&perline=4" /> |
+| <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,cs,dotnet&perline=4" /> | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap&perline=4" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,prisma,tensorflow,pytorch,anaconda&perline=4" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,powershell,windows,ubuntu&perline=4" /> |
 
 </div>
 

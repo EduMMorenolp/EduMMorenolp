@@ -11,13 +11,13 @@
 
 <img src="https://img.shields.io/badge/Backend-333?style=flat-square&logo=elemenaryos&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,python" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Frontend-333?style=flat-square&logo=windowsterminal&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 
 <br>
 

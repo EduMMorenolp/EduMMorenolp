@@ -11,25 +11,25 @@
 
 <img src="https://img.shields.io/badge/Backend-333?style=flat-square&logo=elemenaryos&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Frontend-333?style=flat-square&logo=windowsterminal&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Data_%26_IA-333?style=flat-square&logo=databricks&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,prisma,tensorflow,pytorch,anaconda" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,prisma" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Tools_%26_DevOps-333?style=flat-square&logo=googlesheets&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,powershell,windows,ubuntu" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 
 </div>
 
@@ -54,13 +54,11 @@
 
 👋 **Perfil Técnico:** Soy un Desarrollador de Software apasionado por la construcción de sistemas eficientes. Mi especialidad radica en el **Backend**, donde me enfoco en diseñar arquitecturas escalables, seguras y de código limpio.
 
-💻 **Enfoque Integral:** Disfruto optimizando flujos de trabajo y procesos. Poseo una gran capacidad de adaptación a diferentes entornos tecnológicos, buscando siempre integrar las mejores prácticas de desarrollo y automatización.
+📊 **Pasión por los Datos:** Más allá del desarrollo tradicional, tengo un fuerte interés en el análisis de datos y la Inteligencia Artificial.
 
-📊 **Pasión por los Datos:** Más allá del desarrollo tradicional, tengo un fuerte interés en el análisis de datos y la Inteligencia Artificial. Me motiva transformar información compleja en soluciones estratégicas y funcionales.
+🚀 **Objetivo Profesional:** Busco aportar valor en equipos, manteniéndome en constante aprendizaje y enfrentando nuevos desafíos técnicos con proactividad.
 
-🚀 **Objetivo Profesional:** Busco aportar valor en equipos innovadores, manteniéndome en constante aprendizaje y enfrentando nuevos desafíos técnicos con proactividad.
-
-*Transformando ideas en soluciones digitales robustas.*
+*Transformando ideas en soluciones digitales.*
 
 </div>
 

@@ -48,20 +48,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🧭 Más Sobre Mí:
-
-<div align="center">
-
-👋 **Perfil Técnico:** Soy un Desarrollador de Software apasionado por la construcción de sistemas eficientes. Mi especialidad radica en el **Backend**, donde me enfoco en diseñar arquitecturas escalables, seguras y de código limpio.
-
-📊 **Pasión por los Datos:** Más allá del desarrollo tradicional, tengo un fuerte interés en el análisis de datos y la Inteligencia Artificial.
-
-🚀 **Objetivo Profesional:** Busco aportar valor en equipos, manteniéndome en constante aprendizaje y enfrentando nuevos desafíos técnicos con proactividad.
-
-*Transformando ideas en soluciones digitales.*
-
-</div>
-
 <br>
 
 <div align="center">

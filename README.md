@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Holis!%20Soy%20Edu&fontSize=70&animation=fadeIn&fontAlignY=38&desc=From%20Argentina%20🇦🇷&descAlignY=60&descAlign=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Holis!%20Soy%20Edu&fontSize=70&animation=fadeIn&fontAlignY=38&desc=De%20Argentina%20🇦🇷&descAlignY=60&descAlign=70" width="100%"/>
 </div>
 
 <h2 align="center">¡Bienvenido a mi GitHub!</h2>

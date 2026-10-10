@@ -36,7 +36,6 @@
 <br>
 
 <div align="center">
-  <h3>🌐 Visita mi Landing Page</h3>
   <a href="https://edummorenolp.github.io/Portfolio-Web/">
     <img src="https://img.shields.io/badge/Ver_Portfolio_Web-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
